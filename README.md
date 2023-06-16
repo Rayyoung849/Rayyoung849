@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rayyoung849
 - 👀 I’m interested in cloud application development
-- 🌱 I’m currently learning Linux OS, HTML, SQL, Python, JavaScript, Java and Data Structures and Algorithms.
+- 🌱 I’m currently learning Linux OS, HTML, CSS, MERN Stack, SQL, Python, JavaScript, Java and Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on Linux and HTML.
 - 📫 How to reach me - https://www.linkedin.com/in/raynaldo-young-7b958411a/
 
